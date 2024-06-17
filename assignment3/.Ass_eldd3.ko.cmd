@@ -1,0 +1,1 @@
+cmd_/home/snehal/Desktop/ELDD-Assignments/assignment3/Ass_eldd3.ko := ld -r -m elf_x86_64 -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/snehal/Desktop/ELDD-Assignments/assignment3/Ass_eldd3.ko /home/snehal/Desktop/ELDD-Assignments/assignment3/Ass_eldd3.o /home/snehal/Desktop/ELDD-Assignments/assignment3/Ass_eldd3.mod.o;  true

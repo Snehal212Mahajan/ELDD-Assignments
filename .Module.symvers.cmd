@@ -1,0 +1,1 @@
+cmd_/home/snehal/Desktop/ELDD-Assignments/Module.symvers :=  sed 's/ko$$/o/'  /home/snehal/Desktop/ELDD-Assignments/modules.order | scripts/mod/modpost -m -a    -o /home/snehal/Desktop/ELDD-Assignments/Module.symvers -e -i Module.symvers -T - 

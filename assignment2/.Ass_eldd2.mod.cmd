@@ -1,0 +1,1 @@
+cmd_/home/snehal/Desktop/ELDD-Assignments/assignment2/Ass_eldd2.mod := printf '%s\n'   Ass_eldd2.o | awk '!x[$$0]++ { print("/home/snehal/Desktop/ELDD-Assignments/assignment2/"$$0) }' > /home/snehal/Desktop/ELDD-Assignments/assignment2/Ass_eldd2.mod
